@@ -1,0 +1,5 @@
+myvenv
+data/*
+.env
+model/*
+fraud_detection/model/*
